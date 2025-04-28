@@ -14,5 +14,5 @@ pip install google
 pip install google-api-python-client
 pip install torch==2.6.0
 pip install pandas==2.2.3
-pip install numpy==2.2.5 
+pip install numpy==1.26.4 
 
