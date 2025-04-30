@@ -19,6 +19,10 @@ Please cite:
 }
 ```
 
+## Tutorial video
+
+See our video tutorial for running AL-QASIDA [here](https://youtu.be/_BVEitNmtCI). Or feel free to go through the instructions at your own pace. 
+
 ## Instructions
 
 To set up the environment, run:
