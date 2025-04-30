@@ -19,6 +19,13 @@ Please cite:
 }
 ```
 
+## Current to-dos 
+
+To update soon:
+- 🚧 I noticed an issue that the `pre_humeval` outputs for MT tasks are not getting written properly without use of `eval/correct_scores.py`, due to absense of `llm_outputs/**/*samples*` files. Need to address this ASAP.
+- 🚧 Need to rename hehe --> cohere, TVD --> ADI2
+- 🚧 Make tutorial video in Arabic
+
 ## Tutorial video
 
 See our video tutorial for running AL-QASIDA [here](https://youtu.be/_BVEitNmtCI). Or feel free to go through the instructions at your own pace. 
